@@ -1,7 +1,7 @@
 # DevKit.Xamarin.Storage
 DevKit Xamarin Storage is a library to save data serialized in local files, supported platforms: iOS, Android and UWP.
 
-Prerequisites: NewtonSoft.Json library.
+### Prerequisites: NewtonSoft.Json library.
 
 Using Xamarin.Forms:
 
@@ -21,7 +21,7 @@ Using Xamarin.Forms:
    - Add DevKit.Xamarin.Storage.Abstractions
    - Add DevKit.Xamarin.Storage (located in DevKit.Xamarin.Storage.UWP folder)
 
-Usage:
+### Usage:
 
 Create a AppModel file.
 
