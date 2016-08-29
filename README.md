@@ -54,6 +54,6 @@ To save a file.
     await CrossLocalStorage.Current.SaveLocalDataAsync(_appModel, AppConstants.LocalDataFileName);
 ```
 
-If you wanna contribute feel free to download, enhance the code and share the features.
+If you want to contribute feel free to download, enhance the code project and share the features.
 
 happy coding. RC :)
